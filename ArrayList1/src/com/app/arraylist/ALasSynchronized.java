@@ -14,6 +14,7 @@ public class ALasSynchronized {
 		al.add("ravi");
 		al.add("shannu");
 		al.add("Raju");
+		al.add("sree");
 		System.out.println(al);
 
 		/*
