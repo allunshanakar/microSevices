@@ -13,6 +13,7 @@ public class ALasSynchronized {
 		al.add("madhu");
 		al.add("ravi");
 		al.add("shannu");
+		al.add("Raju");
 		System.out.println(al);
 
 		/*
